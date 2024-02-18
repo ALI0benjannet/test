@@ -1,5 +1,5 @@
 git add .
 git commit -m "ecrire msg pour la modification"
 git push 
-git pull
+git pull **** si quelqu'un fait mise a jour ****
 
