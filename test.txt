@@ -2,4 +2,4 @@ git add .
 git commit -m "ecrire msg pour la modification"
 git push 
 git pull **** si quelqu'un fait mise a jour ****
-
+git clone url nom dossier ou . si tu veux l'ajouter sur la meme dossier
